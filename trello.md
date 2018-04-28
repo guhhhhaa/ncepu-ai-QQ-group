@@ -17,13 +17,13 @@
 
 - 数据挖掘：理论与算法（自主模式）  
   http://www.xuetangx.com/courses/course-v1:TsinghuaX+80240372X+sp/about  
-  来自于： 清华大学 | 分类： 计算机(401)  
-   -
- - 数据科学导论 随堂模式  
+  来自于： 清华大学 | 分类： 计算机(401) 
+
+- 数据科学导论随堂模式  
   http://www.xuetangx.com/courses/course-v1:TsinghuaX+60700052X+2017_T2/about  
   来自于： 清华大学 | 分类： 计算机(406)  
-  -  
- - 大数据科学与应用系列讲座（2018春） 随堂模式  
+ 
+- 大数据科学与应用系列讲座（2018春） 随堂模式  
   http://www.xuetangx.com/courses/course-v1:TsinghuaX+60250131X+2018_T1/about  
   来自于： 清华大学 | 分类： 计算机(406)
 
