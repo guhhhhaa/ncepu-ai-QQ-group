@@ -1,5 +1,9 @@
 # 思维导图
 
+---
+
+---
+
 
 ## 萌新学习路径
 
@@ -61,6 +65,10 @@
 
 - 腾讯云-开发者实验室-TensorFlow 系列实验  
   https://cloud.tencent.com/developer/labs/series/10000
+  
+---
+
+---
 
 ## 大神起飞学习路径
 
@@ -76,6 +84,10 @@
 
 - https://zhimap.com/mhtml/4826024f377845feb463a6981c2a4efa
 
+---
+
+---
+
 ## 其他学习路径
 
 ### 机器学习中文课程
@@ -86,6 +98,10 @@
 ### 统计学基础思维导图
 
 - 关注公众号「数林觅风」，ID：zoemindmap 获取统计学基础思维导图。详情参见:[https://woaielf.github.io/2100/01/01/top/](https://woaielf.github.io/2100/01/01/top/)
+
+---
+
+---
 
 ## 论坛
 
@@ -146,6 +162,12 @@
 
 - http://www.studyai.com/index
 
+
+---
+
+---
+
+
 ## 数据分析竞赛
 
 ### kaggle
@@ -163,6 +185,10 @@
 ### datacastle
 
 - http://gongxiang.pkbigdata.com/
+
+---
+
+---
 
 ## 量化交易平台
 
@@ -185,6 +211,10 @@
 ### BotVs
 
 - https://www.botvs.com/
+
+---
+
+---
 
 ## Github
 
@@ -232,6 +262,10 @@
 
 - https://paintschainer.preferred.tech  
   https://github.com/pfnet/PaintsChainer
+  
+---
+
+---
 
 ## ArXiv
 
@@ -239,28 +273,36 @@
 
 - https://scirate.com/  
   http://www.gitxiv.com/
+  
+---
+
+---
 
 ## 数据集
 
 ### 各种经典，著名数据集
 
-- **1,MNIST**  
-  **http://yann.lecun.com/exdb/mnist**/  
-  **2,SVHN**  
-  **http://ufldl.stanford.edu/housenumbers**/  
-  **3,IRIS–鸢尾花数据集**  
-  **http://archive.ics.uci.edu/ml/datasets/Iris**  
-  **sklearn**  
-  **from sklearn.datasets import load_iris**  
-  **data = load_iris**()  
-  **4,COCO**  
-  **http://cocodataset.org/#download**  
-  **5,ImageNet**  
-  **http://www.image-net.org/about-stats**  
-  **了解更多**？  
-  （**https://www.jianshu.com/p/9990284bc4d5**）  
-  （**https://zhuanlan.zhihu.com/p/35449783**）  
-  （**http://cvmart.net/community/article/detail/148**）
+- 1,MNIST  
+  http://yann.lecun.com/exdb/mnist/  
+- 2,SVHN  
+  http://ufldl.stanford.edu/housenumbers/  
+- 3,IRIS–鸢尾花数据集 
+  http://archive.ics.uci.edu/ml/datasets/Iris  
+  sklearn  
+  
+
+    from sklearn.datasets import load_iris  
+    data = load_iris**()  
+    
+
+ - 4,COCO  
+  http://cocodataset.org/#download  
+ - 5,ImageNet  
+   http://www.image-net.org/about-stats  
+ - 了解更多？  
+   https://www.jianshu.com/p/9990284bc4d5 
+   https://zhuanlan.zhihu.com/p/35449783 
+   http://cvmart.net/community/article/detail/148
 
 ## **Bilibili**
 
