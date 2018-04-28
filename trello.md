@@ -53,8 +53,8 @@
 
 - tf_ml_without_PhD  
     
-  介绍：https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd  
-  文档：https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/  
+  介绍：(https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd)
+  文档：(https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/)
   视频：  
   Part 1 https://www.youtube.com/watch?v=u4alGiomYP4  
   Part 2 https://www.youtube.com/watch?v=fTUwdXUFfI8  
