@@ -1,4 +1,4 @@
-# 思维导图
+＃看板
 
 ---
 
@@ -352,27 +352,31 @@
   我们的GPU实例比AWS节省5倍。  
   Vectordash可让您在疯狂的快速云GPU上训练您的深度学习模型。您可以启动强大的GPU实例，并在几秒钟内开始训练您的模型。
 
-## **网站**
+## 网站
 
-### **AI商用搜索–机器之心**
+### AI商用搜索–机器之心
 
-- **https://handbook.jiqizhixin.com**
+- https://handbook.jiqizhixin.com
 
-### **大数据导航**
+### 大数据导航
 
-- **http://hao.199it.com**/
+- http://hao.199it.com/
 
-### **区块链导航**
+### 区块链导航
 
-- **http://www.0123456789.com**/
+- http://www.0123456789.com/
 
-### **2018年人工智能顶会月历**
+### 2018年人工智能顶会月历
 
-- **https://calendar.google.com/calendar/embed?src=njp4mb7npvg47rm3kfqk2q0988%40group.calendar.google.com&ctz=Asia%2FTokyo**
+- https://calendar.google.com/calendar/embed?src=njp4mb7npvg47rm3kfqk2q0988%40group.calendar.google.com&ctz=Asia%2FTokyo
 
 ### InfoQ
 
 - https://www.infoq.com/ai-ml-data-eng
+
+---
+
+---
 
 ## 框架和库
 
@@ -381,6 +385,10 @@
 - https://deeplearning4j.org/  
   DL4J可以通过Keras（包括TensorFlow，Caffe和Theano）从大多数主要框架导入神经网络模型，通过为数据科学家，数据工程师和DevOps提供跨团队工具包来弥补Python生态系统和JVM之间的差距。Keras是Deeplearning4j的Python API。  
   文档https://deeplearning4j.org/cn/archieved/compare-dl4j-torch7-pylearn
+  
+---
+
+---
 
 ## zhihu
 
@@ -404,7 +412,11 @@
 - AI科技大本营 - 何恺明团队推出Mask^X R-CNN，将实例分割扩展到3000类（分享自知乎网）https://zhuanlan.zhihu.com/p/31625007  
 - TensorFlowNews - 一个 MXNet 实现的 Mask R-CNN.（分享自知乎网）https://zhuanlan.zhihu.com/p/30484871
 
-## 膜神跪仙
+---
+
+---
+
+膜神跪仙
 
 ### 神
 
@@ -413,6 +425,10 @@
 ### 仙
 
 - http://scitech.people.com.cn/n/2013/1025/c1057-23325072.html
+
+---
+
+---
 
 ## 博客
 
@@ -423,6 +439,10 @@
 ### http://ilovin.me/
 
 - http://ilovin.me/
+
+---
+
+---
 
 ## 顶会
 
@@ -453,6 +473,10 @@
 ### ECCV
 
 - https://eccv2018.org/
+
+---
+
+---
 
 ## AI Lab
 
@@ -487,6 +511,10 @@
 - Silicon Valley AI Lab  
   http://research.baidu.com/  
   https://svail.github.io/
+  
+---
+
+---
 
 ## AI 平台
 
@@ -514,6 +542,12 @@
 ### Amazon
 
 - https://aws.amazon.com/machine-learning/
+
+
+---
+
+---
+
 
 ## Art
 
