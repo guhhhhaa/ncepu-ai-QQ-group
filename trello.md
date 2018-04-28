@@ -6,7 +6,7 @@
 ### 起步任务
 
 - 不会翻墙的小伙伴先翻墙  
-  参考[这篇博客：](https://233blog.com/post/1/)  
+  参考[这篇博客](https://233blog.com/post/1/)  
   去[bwh1.net](https://bwh1.net)点几下。
 
 ### 主线任务1:入门公开课
@@ -192,8 +192,8 @@
 
 - part1  
   https://github.com/ty4z2008/Qix/blob/master/dl.md  
-  part2  
-  https://github.com/ty4z2008/Qix/blob/master/dl2.md
+- part2
+  https://github.com/ty4z2008/Qix/blob/master/dl2.md
 
 ### 《深度学习》中文版
 
@@ -328,37 +328,39 @@
 
 - **https://calendar.google.com/calendar/embed?src=njp4mb7npvg47rm3kfqk2q0988%40group.calendar.google.com&ctz=Asia%2FTokyo**
 
-### **InfoQ**
+### InfoQ
 
-- **https://www.infoq.com/ai-ml-data-eng**
+- https://www.infoq.com/ai-ml-data-eng
 
-## **框架和库**
+## 框架和库
 
-### **DL4J**
+### DL4J
 
-- **https://deeplearning4j.org**/  
-  **DL4J可以通过Keras（包括TensorFlow，Caffe和Theano）从大多数主要框架导入神经网络模型，通过为数据科学家，数据工程师和DevOps提供跨团队工具包来弥补Python生态系统和JVM之间的差距。Keras是Deeplearning4j的Python API**。  
-  **文档https://deeplearning4j.org/cn/archieved/compare-dl4j-torch7-pylearn**
+- https://deeplearning4j.org/  
+  DL4J可以通过Keras（包括TensorFlow，Caffe和Theano）从大多数主要框架导入神经网络模型，通过为数据科学家，数据工程师和DevOps提供跨团队工具包来弥补Python生态系统和JVM之间的差距。Keras是Deeplearning4j的Python API。  
+  文档https://deeplearning4j.org/cn/archieved/compare-dl4j-torch7-pylearn
 
-## **zhihu**
+## zhihu
 
-### **一文读懂系列**
+### 一文读懂系列
 
-- **1,一文读懂RNN,LSTM,GRU**  
-  **https://blog.csdn.net/ryansheep/article/details/50357407**  
-  **英文原文链接: http://colah.github.io/posts/2015-08-Understanding-LSTMs**/  
-  **2，一文读懂Faster R-CNN **  
-  **https://zhuanlan.zhihu.com/p/31426458**  
-  **3，一文读懂CTPN**  
-  **https://zhuanlan.zhihu.com/p/34757009**
+- 1,一文读懂RNN,LSTM,GRU
+  https://blog.csdn.net/ryansheep/article/details/50357407
+  英文原文链接: http://colah.github.io/posts/2015-08-Understanding-LSTMs**/  
+  
+- 2，一文读懂Faster R-CNN   
+  https://zhuanlan.zhihu.com/p/31426458  
+  
+- 3，一文读懂CTPN  
+  https://zhuanlan.zhihu.com/p/34757009
 
-### **mask r–cnn**
+### mask r–cnn
 
-- 【**计算机视觉】Mask R-CNN（分享自知乎网）https://zhuanlan.zhihu.com/p/32906401**  
-  **CNN图像分割进化史：三年从R-CNN到Mask R-CNN（分享自知乎网）https://zhuanlan.zhihu.com/p/26655034**  
-  **量子位 - 大神何恺明和Mask R-CNN简史（分享自知乎网）https://zhuanlan.zhihu.com/p/30423258**  
-  **AI科技大本营 - 何恺明团队推出Mask^X R-CNN，将实例分割扩展到3000类（分享自知乎网）https://zhuanlan.zhihu.com/p/31625007**  
-  **TensorFlowNews - 一个 MXNet 实现的 Mask R-CNN.（分享自知乎网）https://zhuanlan.zhihu.com/p/30484871**
+- 【计算机视觉】Mask R-CNN（分享自知乎网）https://zhuanlan.zhihu.com/p/32906401  
+- CNN图像分割进化史：三年从R-CNN到Mask R-CNN（分享自知乎网）https://zhuanlan.zhihu.com/p/26655034  
+- 量子位 - 大神何恺明和Mask R-CNN简史（分享自知乎网）https://zhuanlan.zhihu.com/p/30423258 
+- AI科技大本营 - 何恺明团队推出Mask^X R-CNN，将实例分割扩展到3000类（分享自知乎网）https://zhuanlan.zhihu.com/p/31625007  
+- TensorFlowNews - 一个 MXNet 实现的 Mask R-CNN.（分享自知乎网）https://zhuanlan.zhihu.com/p/30484871
 
 ## 膜神跪仙
 
@@ -374,8 +376,7 @@
 
 ### Christopher Olah
 
-- 1,Google Brain 科学家 Christopher Olah 的博客  
-  http://colah.github.io/
+- Google Brain 科学家 Christopher Olah 的博客   http://colah.github.io/
 
 ### http://ilovin.me/
 
@@ -451,16 +452,16 @@
 
 - 阿里云ET  
   https://et.aliyun.com/index  
-  阿里云数加  
+- 阿里云数加  
   https://data.aliyun.com/  
-  AliGenie语音开发者平台  
+- AliGenie语音开发者平台  
   https://open.bot.tmall.com/
 
 ### Tencent 腾讯
 
 - 腾讯大数据  
   http://bigdata.qq.com/  
-  腾讯移动中心  
+- 腾讯移动中心  
   http://mta.qq.com/mta/
 
 ### Baidu 百度
@@ -499,14 +500,20 @@
 
 - 自动描线论文：  
   http://hi.cs.waseda.ac.jp/~esimo/publications/SimoSerraSIGGRAPH2016.pdf  
-  自动描线-早稻田大学网站：  
-  http://hi.cs.waseda.ac.jp/~esimo/en/research/sketch/  
-    
-  自动上色-Github：  
+- 自动描线-早稻田大学网站：  
+  http://hi.cs.waseda.ac.jp/~esimo/en/research/sketch/    
+  
+--- 
+
+
+- 自动上色-Github：  
   https://github.com/satoshiiizuka/siggraph2016_colorization  
-  自动上色-早稻田大学网站：  
-  http://hi.cs.waseda.ac.jp/~iizuka/projects/colorization/en/  
-    
-  介绍博客：  
+- 自动上色-早稻田大学网站：  
+  http://hi.cs.waseda.ac.jp/~iizuka/projects/colorization/en/  
+  
+--- 
+
+
+- 介绍博客：  
   https://imjad.cn/archives/lab/black-technology-automatic-tracing-and-automatic-coloring-technology-in-waseda-university-japan
 
