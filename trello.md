@@ -304,7 +304,11 @@
    https://zhuanlan.zhihu.com/p/35449783 
    http://cvmart.net/community/article/detail/148
 
-## **Bilibili**
+---
+
+---
+
+## Bilibili
 
 ### 图解机器学习-shendusuipian 的个人空间
 
@@ -322,11 +326,19 @@
 
 - https://space.bilibili.com/209599371
 
+---
+
+---
+
 ## youtube
 
 ### Siraj Raval 的频道
 
 - https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A
+
+---
+
+---
 
 ## 工具
 
@@ -351,6 +363,10 @@
 - https://vectordash.com/  
   我们的GPU实例比AWS节省5倍。  
   Vectordash可让您在疯狂的快速云GPU上训练您的深度学习模型。您可以启动强大的GPU实例，并在几秒钟内开始训练您的模型。
+
+---
+
+---
 
 ## 网站
 
