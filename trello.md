@@ -301,6 +301,7 @@
    https://zhuanlan.zhihu.com/p/35449783 
    http://cvmart.net/community/article/detail/148
    https://blog.csdn.net/lien0906/article/details/75547374
+   https://deeplearning4j.org/cn/opendata
 ---
 
 ---
