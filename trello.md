@@ -6,9 +6,8 @@
 ### 起步任务
 
 - 不会翻墙的小伙伴先翻墙  
-  参考这篇博客：  
-  [https](https://233blog.com/post/1/) : //233blog.com/post/1/   
-  去这个网站（[https://bwh1](https://bwh1.net/).net）点几下。
+  参考[这篇博客：](https://233blog.com/post/1/)  
+  去[bwh1.net](https://bwh1.net)点几下。
 
 ### 主线任务1:入门公开课
 
@@ -86,7 +85,7 @@
 
 ### 统计学基础思维导图
 
-- 关注公众号「数林觅风」，ID：zoemindmap 获取统计学基础思维导图。 详情参见: [https://woaielf.github.io/2100/01/01/top/](https://woaielf.github.io/2100/01/01/top/)
+- 关注公众号「数林觅风」，ID：zoemindmap 获取统计学基础思维导图。详情参见:[https://woaielf.github.io/2100/01/01/top/](https://woaielf.github.io/2100/01/01/top/)
 
 ## 论坛
 
@@ -243,7 +242,7 @@
 
 ## 数据集
 
-### **各种经典，著名数据集**
+### 各种经典，著名数据集
 
 - **1,MNIST**  
   **http://yann.lecun.com/exdb/mnist**/  
