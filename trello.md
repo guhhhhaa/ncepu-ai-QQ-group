@@ -139,9 +139,6 @@
 ### 集智社区
 
 - https://jizhi.im/community
-
-- MXNet_Gluon 的个人空间
-
 ### tensorflow中国
 
 - http://www.tensorfly.cn/bbs/
