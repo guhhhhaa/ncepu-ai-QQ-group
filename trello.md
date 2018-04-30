@@ -40,14 +40,15 @@ https://cn.udacity.com/course/deep-learning--ud730
 
 ### 主线任务2:语言与框架
 
-- 1,MacOS:  
-  莫烦python - 推荐学习顺序  
-  https://morvanzhou.github.io/learning-steps/  
-  2,Linux:  
-  https://www.icourse163.org/course/PKU-1002536002  
-  3,Windows:  
-  https://space.bilibili.com/16696495  
-  ☜这位是MIT大佬。
+- 1,
+  莫烦python - 推荐学习顺序 
+  https://morvanzhou.github.io/learning-steps/  
+- 2, 
+  https://www.icourse163.org/course/PKU-1002536002   
+- 3, 
+  https://github.com/zake7749/TensorFlow-Chinese-Tutorial
+  https://space.bilibili.com/16696495 
+  ☜这位是MIT大佬。
 
 ### 主线任务3：MXNet/Gluon
 
