@@ -43,10 +43,13 @@ https://cn.udacity.com/course/deep-learning--ud730
 - 1,
   莫烦python - 推荐学习顺序 
   https://morvanzhou.github.io/learning-steps/  
+
 - 2, 
-  https://www.icourse163.org/course/PKU-1002536002   
+  https://www.icourse163.org/course/PKU-1002536002 
+  
 - 3, 
   https://github.com/zake7749/TensorFlow-Chinese-Tutorial
+
   https://space.bilibili.com/16696495 
   ☜这位是MIT大佬。
 
