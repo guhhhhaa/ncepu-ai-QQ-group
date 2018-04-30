@@ -316,6 +316,7 @@ https://www.kdnuggets.com/2018/04/top-free-books-deep-learning.html
    http://cvmart.net/community/article/detail/148
    https://blog.csdn.net/lien0906/article/details/75547374
    https://deeplearning4j.org/cn/opendata
+   https://www.kdnuggets.com/datasets/index.html
 ---
 
 ---
