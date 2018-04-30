@@ -339,7 +339,8 @@ https://www.kdnuggets.com/2018/04/top-free-books-deep-learning.html
 - 京东 - https://biao.jd.com/
         - http://weigong.jd.com/
 - 阿里 - http://zhongbao.alibaba.com/
--  basicfinder https://www.basicfinder.com/
+- basicfinder https://www.basicfinder.com/
+- 尼斯数据 http://nisishu.com/
 ### 参考阅读
  - “数据折叠”：人工智能背后的人工
  https://zhuanlan.zhihu.com/p/33955623
