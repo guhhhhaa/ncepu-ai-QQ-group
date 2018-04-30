@@ -99,11 +99,21 @@
 
 - 关注公众号「数林觅风」，ID：zoemindmap 获取统计学基础思维导图。详情参见:[https://woaielf.github.io/2100/01/01/top/](https://woaielf.github.io/2100/01/01/top/)
 
+### 书籍推荐
+
+关于深度学习的8大免费必读书籍
+https://www.kdnuggets.com/2018/04/top-free-books-deep-learning.html
+
 ---
 
 ---
 
 ## 论坛
+
+### 推荐一些国外的论坛
+- https://www.kdnuggets.com/
+- http://www.datatau.com/
+- http://deeplearning.net/
 
 ### StackOverflow
 
