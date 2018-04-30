@@ -4,6 +4,13 @@
 
 ---
 
+## 极简学习路径
+
+- 编程基础（python）- 免费 
+https://cn.udacity.com/course/programming-foundations-with-python--ud036
+
+- 深度学习（中/英）by  Google - 免费
+https://cn.udacity.com/course/deep-learning--ud730
 
 ## 萌新学习路径
 
