@@ -325,8 +325,27 @@ https://www.kdnuggets.com/2018/04/top-free-books-deep-learning.html
    https://blog.csdn.net/lien0906/article/details/75547374
    https://deeplearning4j.org/cn/opendata
    https://www.kdnuggets.com/datasets/index.html
+   
+---
 ---
 
+
+##数据标注平台
+- 百度 - http://zhongce.baidu.com/acquire/zhongbaoHome/index/
+- 亚马逊 - https://www.mturk.com/
+- 京东 - https://biao.jd.com/
+        - http://weigong.jd.com/
+- 阿里 - http://zhongbao.alibaba.com/
+-  basicfinder https://www.basicfinder.com/
+### 参考阅读
+ - “数据折叠”：人工智能背后的人工
+ https://zhuanlan.zhihu.com/p/33955623
+ - 亚马逊外包平台的50万劳工：人工智能的背后，无尽数据集的建造
+https://blog.csdn.net/starzhou/article/details/53761872
+- 众包算法实践 - 成为众包工人
+https://cloud.tencent.com/developer/article/108335
+
+---
 ---
 
 ## Bilibili
@@ -634,18 +653,4 @@ https://www.kdnuggets.com/2018/04/top-free-books-deep-learning.html
 ---
 
 
-## 数据标注平台
 
-- 百度 - http://zhongce.baidu.com/acquire/zhongbaoHome/index
-- Amazon - https://www.mturk.com/
-- 京东 - https://biao.jd.com/
-        - http://weigong.jd.com/
-- 阿里 - http://zhongbao.alibaba.com/
-- basicfinder https://www.basicfinder.com/
-### 参考阅读
-- “数据折叠”：人工智能背后的人工
- https://zhuanlan.zhihu.com/p/33955623
-- 亚马逊外包平台的50万劳工：人工智能的背后，无尽数据集的建造
-https://blog.csdn.net/starzhou/article/details/53761872
-- 众包算法实践——成为众包工人
-https://cloud.tencent.com/developer/article/108335
