@@ -48,6 +48,7 @@ https://cn.udacity.com/course/deep-learning--ud730
   https://space.bilibili.com/243821484
   另一个搬运者，可以一口气看完：
   https://space.bilibili.com/20129121
+
 - 2, 
   https://www.icourse163.org/course/PKU-1002536002 
   
@@ -69,10 +70,14 @@ https://cn.udacity.com/course/deep-learning--ud730
 - tf_ml_without_PhD  
     
   介绍：(https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd)
+
   文档：(https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/)
+
   视频：  
+
   Part 1 https://www.youtube.com/watch?v=u4alGiomYP4  
   Part 2 https://www.youtube.com/watch?v=fTUwdXUFfI8  
+
   示例代码：  
   https://github.com/martin-gorner/tensorflow-mnist-tutorial
 
