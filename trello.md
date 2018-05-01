@@ -12,6 +12,15 @@ https://cn.udacity.com/course/programming-foundations-with-python--ud036
 - 数据分析入门（中/英）- 免费
 https://cn.udacity.com/course/intro-to-data-analysis--ud170
 
+- 用 MongoDB 进行数据整理（中/英）byMongoDB -免费
+https://cn.udacity.com/course/data-wrangling-with-mongodb--ud032-enterprise
+
+- 用 R 进行数据分析（中/英）byFacebook - 免费
+https://cn.udacity.com/course/data-analysis-with-r--ud651-enterprise
+
+- 数据可视化与 D3.js（中/英）- 免费
+https://cn.udacity.com/course/data-visualization-and-d3js--ud507-enterprise
+
 - 机器学习入门（中/英）- 免费
 https://cn.udacity.com/course/intro-to-machine-learning--ud120-enterprise
 
