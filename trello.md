@@ -12,6 +12,9 @@ https://cn.udacity.com/course/programming-foundations-with-python--ud036
 - 数据分析入门（中/英）- 免费
 https://cn.udacity.com/course/intro-to-data-analysis--ud170
 
+- 机器学习入门（中/英）- 免费
+https://cn.udacity.com/course/intro-to-machine-learning--ud120-enterprise
+
 - 深度学习（中/英）by  Google - 免费
 https://cn.udacity.com/course/deep-learning--ud730
 
