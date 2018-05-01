@@ -357,7 +357,7 @@ https://www.kdnuggets.com/2018/04/top-free-books-deep-learning.html
 ---
 
 
-##数据标注平台
+## 数据标注平台
 - 百度 - http://zhongce.baidu.com/acquire/zhongbaoHome/index/
 - 亚马逊 - https://www.mturk.com/
 - 京东 - https://biao.jd.com/
@@ -372,7 +372,7 @@ https://www.kdnuggets.com/2018/04/top-free-books-deep-learning.html
  - 亚马逊外包平台的50万劳工：人工智能的背后，无尽数据集的建造
 https://blog.csdn.net/starzhou/article/details/53761872
 - 众包算法实践 - 成为众包工人
-https://cloud.tencent.com/developer/article/108335
+https://cloud.tencent.com/developer/article/1083357
 
 ---
 ---
