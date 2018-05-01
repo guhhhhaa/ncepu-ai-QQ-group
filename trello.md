@@ -43,7 +43,11 @@ https://cn.udacity.com/course/deep-learning--ud730
 - 1,
   莫烦python - 推荐学习顺序 
   https://morvanzhou.github.io/learning-steps/  
-
+  bilibili
+  他的空间：
+  https://space.bilibili.com/243821484
+  另一个搬运者，可以一口气看完：
+  https://space.bilibili.com/20129121
 - 2, 
   https://www.icourse163.org/course/PKU-1002536002 
   
