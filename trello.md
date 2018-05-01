@@ -9,6 +9,9 @@
 - 编程基础（python）- 免费 
 https://cn.udacity.com/course/programming-foundations-with-python--ud036
 
+- 数据分析入门（中/英）- 免费
+https://cn.udacity.com/course/intro-to-data-analysis--ud170
+
 - 深度学习（中/英）by  Google - 免费
 https://cn.udacity.com/course/deep-learning--ud730
 
